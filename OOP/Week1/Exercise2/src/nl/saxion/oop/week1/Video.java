@@ -22,7 +22,6 @@ public class Video {
     }
 
     public void watch() {
-
         watched = true;
     }
 
@@ -30,7 +29,6 @@ public class Video {
         SaxionApp.print(youtubeId + " " + title + " " + views);
         if (isWatched()) {
             SaxionApp.print(" [WATCHED]", Color.green);
-
         } else {
             SaxionApp.print(" [NOT WATCHED]", Color.red);
         }
