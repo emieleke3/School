@@ -47,7 +47,7 @@ public class Application implements Runnable {
     }
 
     public void loadCSV(ArrayList<Video> videos) {
-        CsvReader reader = new CsvReader("C:\\Users\\emiel\\Documents\\GitHub\\School\\OOP\\Week1\\Exercise2\\youtubevideos.csv");
+        CsvReader reader = new CsvReader("D:\\Saxion\\Semester 3\\OOP\\Week1\\Exercise2\\youtubevideos.csv");
         reader.skipRow();
 
         while (reader.loadRow()) {
