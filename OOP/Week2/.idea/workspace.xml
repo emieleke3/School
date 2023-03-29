@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="a7b8fde2-851c-4bbb-9591-723dd3e55134" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../Week1/Exercise4/src/nl/saxion/oop/week1/Airplane.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Week1/Exercise6/src/nl/saxion/oop/week1/BingoMill.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week1/Exercise4/src/nl/saxion/oop/week1/Application.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Week1/Exercise4/src/nl/saxion/oop/week1/Application.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week1/Exercise5/src/nl/saxion/oop/week1/King.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Week1/Exercise5/src/nl/saxion/oop/week1/King.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week1/Exercise5/src/nl/saxion/oop/week1/Pawn.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Week1/Exercise5/src/nl/saxion/oop/week1/Pawn.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week1/Exercise6/src/nl/saxion/oop/week1/Application.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Week1/Exercise6/src/nl/saxion/oop/week1/Application.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week1/Exercise6/src/nl/saxion/oop/week1/TEst.java" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2LSX56p39w3ZgU5OaFef4izJySB" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;jdk.selected.JAVA_MODULE&quot;: &quot;17&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/emiel/Documents/GitHub/School/OOP2&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Project&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/Exercise0/src/nl/saxion/oop/week2" />
+      <recent name="$PROJECT_DIR$/Exercise0/src" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="nl.saxion.oop.week2" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.Application (1)">
+    <configuration name="Application (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="nl.saxion.oop.week2.Application" />
+      <module name="Exercise0" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="nl.saxion.oop.week2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Application" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="nl.saxion.oop.week2.Application" />
+      <module name="Exercise1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="nl.saxion.oop.week2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Application (1)" />
+        <item itemvalue="Application.Application" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a7b8fde2-851c-4bbb-9591-723dd3e55134" name="Changes" comment="" />
+      <created>1675865270692</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1675865270692</updated>
+      <workItem from="1675865271964" duration="48000" />
+      <workItem from="1675934994970" duration="2195000" />
+      <workItem from="1676031748201" duration="2952000" />
+      <workItem from="1676039840926" duration="3178000" />
+      <workItem from="1676305051442" duration="279000" />
+      <workItem from="1676365397147" duration="270000" />
+      <workItem from="1676367841253" duration="43000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>

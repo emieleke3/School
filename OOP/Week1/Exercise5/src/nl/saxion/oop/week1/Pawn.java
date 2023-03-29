@@ -19,7 +19,7 @@ public class Pawn {
         int calcX = 100 + xCoordinate * gridSize;
         int calcY = 100 + yCoordinate * gridSize;
 
-        SaxionApp.drawImage("resources/pawn_light.png", calcX + 10, calcY + 5);
+        SaxionApp.drawImage("C:\\Users\\emiel\\Documents\\GitHub\\School\\OOP\\Week1\\resources\\pawn_light.png", calcX + 10, calcY + 5);
     }
 
     public void showMoves() {

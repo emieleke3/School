@@ -9,22 +9,28 @@ public class Application implements Runnable {
     public static void main(String[] args) {
         SaxionApp.start(new Application());
     }
+    // TEST - Scenario 1: The successful way
+    // plane.loadPassengers();
+    // plane.loadLuggage();
+    // plane.lockDoors();
+    // plane.depart();
 
+    // TEST - Scenario 2: Failure due to locked doors
+    // plane.lockDoors();
+    // plane.loadPassengers(); <-- This should result in a print stating that we cannot depart!
+
+    // TEST - Scenario 3: Failure due to not loading passengers
+    // plane.loadLuggage();
+    // plane.lockDoors();
+    // plane.depart(); <-- This should result in a print stating that we cannot depart!
     public void run() {
-        // TEST - Scenario 1: The successful way
-        // plane.loadPassengers();
-        // plane.loadLuggage();
-        // plane.lockDoors();
-        // plane.depart();
+        int passengers = 0;
+        int luggage = 0;
+        int planeSeats = 120;
+        int luggagePlace = 120;
+        boolean doorsUnlocked = true;
 
-        // TEST - Scenario 2: Failure due to locked doors
-        // plane.lockDoors();
-        // plane.loadPassengers(); <-- This should result in a print stating that we cannot depart!
-
-        // TEST - Scenario 3: Failure due to not loading passengers
-        // plane.loadLuggage();
-        // plane.lockDoors();
-        // plane.depart(); <-- This should result in a print stating that we cannot depart!
+        Airplane airplane = new Airplane();
 
         int menuInput = -1;
         do {
@@ -45,23 +51,29 @@ public class Application implements Runnable {
             if (menuInput == 1) {
                 SaxionApp.printLine("Loading passengers..");
 
-                // TODO: Implement your code
+                airplane.loadPassengers();
 
                 SaxionApp.pause();
             } else if (menuInput == 2) {
                 SaxionApp.printLine("Loading luggage..");
 
-                // TODO: Implement your code
+                airplane.loadLuggage();
 
                 SaxionApp.pause();
             } else if (menuInput == 3) {
 
-                // TODO: Implement your code
+                if(doorsUnlocked) {
+                    airplane.lockDoors();
+                    doorsUnlocked = false;
+                } else {
+                    airplane.unlockDoors();
+                    doorsUnlocked = true;
+                }
 
                 SaxionApp.pause();
             } else if (menuInput == 9) {
 
-                // TODO: Implement your code
+                airplane.depart();
 
                 SaxionApp.pause();
             }

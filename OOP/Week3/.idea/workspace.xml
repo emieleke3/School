@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="153ae4b6-e26c-47e1-8593-f42c9421e5fc" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../Week1/Exercise4/src/nl/saxion/oop/week1/Airplane.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Week1/Exercise6/src/nl/saxion/oop/week1/BingoMill.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/programstyles/src/StringUtils.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week1/Exercise4/src/nl/saxion/oop/week1/Application.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Week1/Exercise4/src/nl/saxion/oop/week1/Application.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week1/Exercise5/src/nl/saxion/oop/week1/King.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Week1/Exercise5/src/nl/saxion/oop/week1/King.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week1/Exercise5/src/nl/saxion/oop/week1/Pawn.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Week1/Exercise5/src/nl/saxion/oop/week1/Pawn.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week1/Exercise6/src/nl/saxion/oop/week1/Application.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Week1/Exercise6/src/nl/saxion/oop/week1/Application.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week1/Exercise6/src/nl/saxion/oop/week1/TEst.java" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="ProjectId" id="2Mot4nP7rO9304LLkv7SWdkdbJf" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "last_opened_file_path": "C:/Users/emiel/Documents/GitHub/School/OOP/Week3/programstyles"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="153ae4b6-e26c-47e1-8593-f42c9421e5fc" name="Changes" comment="" />
+      <created>1678445574071</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1678445574071</updated>
+    </task>
+    <servers />
+  </component>
+</project>

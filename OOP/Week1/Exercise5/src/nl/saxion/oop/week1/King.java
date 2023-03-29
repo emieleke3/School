@@ -8,18 +8,21 @@ public class King {
 
     public int xCoordinate;
     public int yCoordinate;
-
     private int gridSize = 75; // For drawing
 
-    public boolean canMove(int xCoordinate, int yCoordinate) {
-        return false;
+    public boolean canMove(
+            int xCoordinate, int yCoordinate) {
+        return (this.xCoordinate-xCoordinate == 1||xCoordinate-this.xCoordinate==1)&&
+                (this.yCoordinate-yCoordinate == 1||yCoordinate-this.yCoordinate==1) ||
+                (this.yCoordinate==yCoordinate &&(xCoordinate-this.xCoordinate== 1||this.xCoordinate-xCoordinate==1)) ||
+                (this.xCoordinate==xCoordinate && (this.yCoordinate-yCoordinate == 1 || yCoordinate-this.yCoordinate==1));
     }
 
     public void draw() {
         int calcX = 100 + xCoordinate * gridSize;
         int calcY = 100 + yCoordinate * gridSize;
 
-        SaxionApp.drawImage("resources/king_light.png", calcX + 10, calcY + 5);
+        SaxionApp.drawImage("C:\\Users\\emiel\\Documents\\GitHub\\School\\OOP\\Week1\\resources\\king_dark.png", calcX + 10, calcY + 5);
     }
 
     public void showMoves() {
@@ -34,4 +37,5 @@ public class King {
         }
 
     }
+
 }
