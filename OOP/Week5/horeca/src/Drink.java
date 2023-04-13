@@ -16,4 +16,8 @@ public class Drink extends Item {
         return amountMl;
     }
 
+    @Override
+    public String toString() {
+        return super.toString() + " [" + "Alcoholic: " + containsAlcohol + ", amount: " + amountMl + "]";
+    }
 }

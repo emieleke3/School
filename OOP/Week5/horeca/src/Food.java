@@ -16,4 +16,8 @@ public class Food extends Item {
         return hot;
     }
 
+    @Override
+    public String toString() {
+        return super.toString() + " [" + "hot: " + hot + ", for " + forHowManyPeople + " people.]";
+    }
 }

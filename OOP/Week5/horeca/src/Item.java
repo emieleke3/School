@@ -51,6 +51,10 @@ public class Item {
 
         return item;
     }
+
+    public String toString() {
+        return name + " (" + price + ")" ;
+    }
 }
 
 
